@@ -2,7 +2,7 @@
   "dependencies": {
     "axios": "^1.6.7",
     "element-ui": "^2.15.14",
-    "primevue": "^3.47.2",
+    "primevue": "^3.48.0",
     "tone": "^14.7.77"
   }
 }
